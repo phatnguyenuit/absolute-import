@@ -1,0 +1,23 @@
+{
+  "name": "absolute-import",
+  "version": "1.0.0",
+  "description": "Example about absolute import in NodeJS",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phatnguyenuit/absolute-import.git"
+  },
+  "keywords": [
+    "absolute-import",
+    "nodejs"
+  ],
+  "author": "PhatNguyen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/phatnguyenuit/absolute-import/issues"
+  },
+  "homepage": "https://github.com/phatnguyenuit/absolute-import#readme"
+}
